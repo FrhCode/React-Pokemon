@@ -11,3 +11,7 @@ Pokemon game, Build with React
 - it will make new directory, call dist
 - open that folder
 - open file with name index.html 
+
+## Galery
+![This is an image](./src/photo.png)
+
